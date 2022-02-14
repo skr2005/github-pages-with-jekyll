@@ -2,7 +2,6 @@ theme: minima
 title: config-title
 # author: config-author
 # email: config-email
-description: <a href='github.com/skr2005'>@skr2005</a>
 # description: > # this means to ignore newlines until "baseurl:"
   # Write an awesome description for your new site here. You can edit this
   # line in _config.yml. It will appear in your document head meta (for
@@ -14,5 +13,3 @@ description: <a href='github.com/skr2005'>@skr2005</a>
 
 show_excerpts: false # set to false to remove excerpts on the homepage
 
-minima:
-  skin: dark
